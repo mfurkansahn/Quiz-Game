@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00_Main/Menu.unity
+    guid: de740c27bd445c644ae75810384fde96
+  - enabled: 1
+    path: Assets/01_EndlessMarble/EndlessMarble.unity
+    guid: ed8cd2e2abd1b324d80cb7e1099b7680
+  - enabled: 1
+    path: Assets/02_Breakout/02_Breakout.unity
+    guid: 58f61def3c08e6f4eb0a06947ed841fa
+  - enabled: 1
+    path: Assets/03_Quiz/03_Quiz.unity
+    guid: b0d17d86db1682a43a5b8baeb395dc11
+  m_configObjects: {}
